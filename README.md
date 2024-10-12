@@ -1,7 +1,8 @@
 # IBM Data Science Capstone - SpaceX
 
 ## Introduction
-![SpaceX Launch]([https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif](https://camo.githubusercontent.com/9523424e56778424998ea8ca427a804c42d7a6d940fbcffc99d9b7d4b28df38b/68747470733a2f2f63662d636f75727365732d646174612e73332e75732e636c6f75642d6f626a6563742d73746f726167652e617070646f6d61696e2e636c6f75642f49424d446576656c6f706572536b696c6c734e6574776f726b2d445330373031454e2d536b696c6c734e6574776f726b2f6170692f496d616765732f6c616e64696e675f312e676966))
+
+![SpaceX Launch](https://camo.githubusercontent.com/9523424e56778424998ea8ca427a804c42d7a6d940fbcffc99d9b7d4b28df38b/68747470733a2f2f63662d636f75727365732d646174612e73332e75732e636c6f75642d6f626a6563742d73746f726167652e617070646f6d61696e2e636c6f75642f49424d446576656c6f706572536b696c6c734e6574776f726b2d445330373031454e2d536b696c6c734e6574776f726b2f6170692f496d616765732f6c616e64696e675f312e676966)
 
 ### Background
 SpaceX, a pioneering company in the space industry, is dedicated to making space travel accessible and affordable for all. Through innovations such as the reusable first stage of its Falcon 9 rocket, SpaceX has reduced launch costs to $62 million per mission, significantly less than competitors who charge upwards of $165 million. The company's milestones include sending spacecraft to the International Space Station, deploying a satellite constellation for global internet access, and conducting manned space flights.

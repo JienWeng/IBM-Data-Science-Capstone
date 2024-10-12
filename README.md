@@ -103,3 +103,4 @@ This research explores the factors contributing to a successful Falcon 9 rocket 
 ## Contact Information
 - **Name:** Lai Jien Weng
 - **Email:** laijienweng@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jienweng/)
